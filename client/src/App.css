@@ -1,0 +1,355 @@
+html{
+  background: #0a2d4f;
+}
+.card-body{
+  background:#0a2d4f ;
+}
+.AccountDetail{
+  text-align: -webkit-center;
+}
+.card-First{
+  border: double;
+    margin: 3px;
+}
+.card-header{
+  background:#0a2d4f !important;
+}
+.form{
+  margin: 16px;
+}
+.container-profile{
+  background-color: white;
+  border-radius: 20px
+}
+.First{
+  background: #0a2d4f;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.signup-content{
+  background-color: white;
+  border-radius: 16px;
+  display: inline-flex;
+  border: ridge;
+  margin: 25px;
+
+}
+.Form-element{
+      margin-top: 10px;
+      margin-bottom: 10px;
+}
+.zmdi-account-circle{
+  margin-inline: 10px;
+}
+.zmdi-email-open{
+  margin-inline: 10px;
+}
+.zmdi-phone-in-talk{
+  margin-inline: 10px;
+}
+.zmdi-slideshow{
+  margin-inline: 10px;
+}
+.zmdi-lock{
+  margin-inline: 10px;
+}
+.signup{
+  text-align: -webkit-center;
+  background: #0a2d4f;
+}
+.Ref{
+  width: 168px;
+}
+.divn{
+  width: 130px;
+}
+.phone{
+  width: 130px;
+}
+.form-input{
+  width: 242px;
+}
+.Table 
+{
+    display:table;
+}
+.Tr
+{
+  display: flex;
+}
+
+.Td
+{
+    display:table-cell;
+}
+.form{
+  display: block !important;
+}
+.signup-image{
+  width: 311px;
+  height: 275px;
+  margin-inline-start: 20px;
+  margin-top: 92px;
+}
+.zmdi-confirmation-number:before {
+  content: '\f3d4';
+  margin: 12px;
+}
+.Forget-btn-div{
+  margin-inline-start: 2px;
+}
+.form-group{
+  margin-inline: 95px;
+  display: flex;
+  margin: 25px;
+}
+.Signup-h2{
+  text-align: -webkit-center;
+  margin-top: 12px;
+}
+.signup-image-link{
+  text-decoration: none;
+}
+
+.form-submit{
+  color: white;
+  border-radius: 5px;
+  background-color: #0a2d4f;
+  width: 97px;
+}
+
+.Login-image{
+  animation: up-down 1s ease-in-out infinite alternate-reverse both;
+  width: 244px;
+  height: 149px;
+  margin-inline-start: 20px;
+}
+
+.Lform-input{
+  width: 187px;
+}
+.LForm-element{
+  margin-bottom: 32px;
+}
+
+.info-item{
+  display: flex;
+  justify-content: start;
+  margin-inline: 27px;
+  border: ridge;
+  border-right-style: solid;
+  border-width: 7px;
+  padding: 3px;
+}
+.col-lg-10{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.info-content{
+  margin-inline: 25px;
+}
+.Contact{
+  justify-content: center;
+}
+.textarea{
+  width: 623px;
+}
+
+.contact-form-text{
+  text-align: -webkit-center;
+}
+.contact-form-name{
+  justify-content: center;
+  margin: 12px;
+  margin-inline: 14px;
+}
+.cform-field{
+  margin-inline: 14px;
+}
+
+.contect-form-title{
+  text-align: center;
+  margin: 15px;
+}
+
+.contact-form-btn{
+  text-align: center;
+}
+.contact-form-container{
+  background: white;
+  border-radius: 20px;
+  margin-inline: 256px;
+  justify-content: start;
+  margin-top: 70px;
+  border: ridge;
+  border-right-style: solid;
+  border-width: 7px;
+}
+#Forgot{
+  width: auto;
+}
+#title{
+  color: white;
+  text-align: center;
+  padding: 11px;
+}
+.contact-btn{
+  color: white;
+  border-radius: 5px;
+  background-color: #0a2d4f;;
+  width: 148px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#input{
+  color: black;
+  font-weight: bold;
+}
+#name{
+  color: white;
+}
+.welcome{
+  color: white;
+}
+.welcomediv{
+  background: #0a2d4f;
+  text-align: center;
+    padding-top: 200px;
+}
+.complaindiv{
+  text-align: center;
+  margin: 51px;
+}
+.nav-tab{
+  display: flex;
+  list-style-type: none;
+}
+.container-profile{
+    margin-inline: 330px;
+    border: ridge;
+    border-right-style: solid;
+    padding: 48px;
+}
+.profile-img{
+  width: 222px;
+  height: 160px;
+}
+.profile-work{
+  margin-top: 44px;
+}
+.About{
+  margin-inline: 60px
+}
+
+
+.contact-form-provider-inputfield{
+  width: 623px;
+  margin-inline: 60px;
+  margin-bottom: 12px;
+}
+#name{
+  height: 35px;
+}
+
+#input{
+  margin-top: 5px;
+}
+
+.rfnumber{
+  margin-inline: 75px;
+display: flex;}
+
+#navbarSupportedContent{
+  justify-content: end;
+}
+
+.Link{
+  color: aliceblue;;
+  font-size: 25px;
+  font-weight: bold;
+  margin-inline-end: 22px;
+}
+
+.Name{
+  margin-top: 8px;
+  font-size: 16px;
+}
+.Namep{
+  font-size: 12px;
+}
+.hl.one{
+  width: 60px;
+  border-bottom-style: solid;
+}
+.hl.two{
+  margin-top: 3px;
+  width: 60px;
+  border-bottom-style: solid;
+}
+.username{
+  margin-inline-start: -104px;
+  color: aliceblue;
+  text-decoration: underline;
+  font-size: 25px;
+  font-weight: bold;
+  background: #0a2d4f;
+  border: aliceblue;
+}
+.ml-92{
+  margin-inline-start: 92px;
+}
+.username i{
+  margin: 7px;
+}
+.hl-class{
+  margin-top: 6px;
+  margin-inline-start: 9px;
+}
+.logo-header{
+  display: flex;
+}
+.right{
+  margin: auto;
+  margin-inline: 30px;
+  margin-top: 17px;
+}
+
